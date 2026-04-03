@@ -1,8 +1,8 @@
-# Nike DevClub - Página de Produto Interativa
+# Nike - Página de Produto Interativa
 
 ## 📋 Descrição
 
-Este é um projeto de página web interativa que apresenta o tênis Nike Air Zoom. Desenvolvido como parte do curso DevClub, o site permite visualizar o produto com diferentes cores e inclui uma interface responsiva e animada. O foco é demonstrar habilidades em HTML, CSS e JavaScript para criar uma experiência de usuário envolvente.
+Este é um projeto de página web interativa que apresenta o tênis Nike Air Zoom. Desenvolvido como parte do curso, o site permite visualizar o produto com diferentes cores e inclui uma interface responsiva e animada. O foco é demonstrar habilidades em HTML, CSS e JavaScript para criar uma experiência de usuário envolvente.
 
 ## ✨ Funcionalidades
 
